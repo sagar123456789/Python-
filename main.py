@@ -47,7 +47,7 @@ for k in range(l):
     for i in range(2):
         list1 = []
         for j in range(2):
-            z = int(input("Enter Points for line",k,))
+            z = int(input("Enter Points for line",))
             list1.append(z)
         input_list.append(list1)
     p1=input_list
